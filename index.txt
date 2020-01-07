@@ -1,3 +1,4 @@
 "bilge adam dersleri"
 bilge adam git configration
 aciklama commit yazmayi ögrenme ve github a atma
+offf
